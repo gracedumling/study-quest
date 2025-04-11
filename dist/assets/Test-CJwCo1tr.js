@@ -1,0 +1,1 @@
+import{j as e}from"./app-Cgnp6kDH.js";function r({message:s}){return e.jsx("div",{className:"min-h-screen bg-gray-100 flex items-center justify-center",children:e.jsxs("div",{className:"bg-white p-8 rounded-lg shadow-md",children:[e.jsx("h1",{className:"text-2xl font-bold mb-4",children:"Test Page"}),e.jsx("p",{children:s})]})})}export{r as default};
