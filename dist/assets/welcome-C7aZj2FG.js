@@ -1,4 +1,4 @@
-import{q as l,j as e,a as n,J as s}from"./app-Cgnp6kDH.js";function o(){const{auth:r}=l().props,i="/official_logo.png",a="/img/banner 2.webp",t="/img/banner 3.webp";return e.jsxs(e.Fragment,{children:[e.jsx(n,{title:"Rogue-Lite Philippine History Trivia Game",children:e.jsx("style",{children:`
+import{q as l,j as e,a as n,J as s}from"./app-CDyc61az.js";function o(){const{auth:r}=l().props,i="/official_logo.png",a="/img/banner 2.webp",t="/img/banner 3.webp";return e.jsxs(e.Fragment,{children:[e.jsx(n,{title:"Rogue-Lite Philippine History Trivia Game",children:e.jsx("style",{children:`
                     :root {
                         --primary-color: #7e20dc;
                         --secondary-color: #9d4edd;

@@ -1,1 +1,0 @@
-import{r as t}from"./app-Cgnp6kDH.js";import"./sidebar-BNUyo_2D.js";import"./button-Bth_Z2Xx.js";import"./index-CwO6JxfM.js";import"./index-DRgt1isS.js";function s(){const[a,e]=t.useState("gameplay")}export{s as default};

@@ -30,7 +30,7 @@ export default defineConfig({
     },
 
     build: {
-        outDir: 'build',  // Tinutukoy ang output directory para sa build
+        outDir: 'dist',  // Tinutukoy ang output directory para sa build
     },
 
 });
